@@ -1,0 +1,2 @@
+Hello, this program is conversor of values in other values, just for studys in Javascript.
+I am using Commander.js what a library Javascript for create CLI's and manipulate inputs and outputs of users.
